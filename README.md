@@ -1,6 +1,6 @@
 # Author
 
-Sami Föry
+## Sami Föry
 
 # Model-Based V&V Concept using SystemVerilog and Cocotb
 
